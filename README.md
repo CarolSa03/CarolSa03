@@ -34,4 +34,4 @@ Currently learning, self-taught:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love writing. Hence, I usually write most of reports and documentation for the team. I speak three languages near fluency: Portuguese (Native), English (C1) and Korean (A2).
 
-Thank you and don't hesitate to reach out. Let's connect and create something amazing together!!! 🌟
+Thank you and don't hesitate to reach out🌟
