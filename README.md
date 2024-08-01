@@ -27,7 +27,7 @@ Currently learning, self-taught:
 
 #### GitHub Stats
 
-![Carolina Sa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolSa03&show_icons=true&theme=radical)
+![Carolina Sa's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=CarolSa03)
 
 #### Fun Facts
 
