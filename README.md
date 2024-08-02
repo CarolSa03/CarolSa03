@@ -30,6 +30,10 @@ Currently learning, self-taught:
 
 ![Carolina Sa's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=CarolSa03)
 
+#### Languages in my Repositories
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSa03&layout=compact)
+
 #### Fun Facts
 
 - 😄 Pronouns: she/her
