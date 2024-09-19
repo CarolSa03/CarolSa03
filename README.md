@@ -5,7 +5,7 @@ I'm Carolina Sa, a passionate Computer Science and Engineering Student with a ke
 #### About Me
 
 - ☁️ I am currently developing small side projects so I can learn more languages. Some projects are focused on CyberSecurity and Data Science. 
-- 🔭 I just finished working on SEM4-PI, a university project at ISEP.
+- 🔭 I am currently building my curriculum.
 - 🌱 I'm constantly learning and exploring new technologies, with a focus on Cyber Security or Data Science.
 - 👯 I'm hoping to do my master degree in Cyber Security, Data Science or Artificial Inteligence. 
 - 🤝 I love working and collaborating with people from all around the world, and I've worked with a lot of project management approaches such as SCRUM and AGILE, and a little bit of the Waterfall methodology.
