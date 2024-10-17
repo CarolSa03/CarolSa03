@@ -4,7 +4,7 @@ I'm Carolina Sa, a passionate Computer Science and Engineering Student with a ke
 
 #### About Me
 
-- ☁️ I am currently developing small side projects so I can learn more languages. Some projects are focused on CyberSecurity and Data Science. 
+- ☁️ I am currently developing small side projects so I can learn more languages. Some projects are focused on CyberSecurity, Data Science and Quantum Computing.
 - 🔭 I am currently building my curriculum.
 - 🌱 I'm constantly learning and exploring new technologies, with a focus on Cyber Security or Data Science.
 - 👯 I'm hoping to do my master degree in Cyber Security, Data Science or Artificial Inteligence. 
@@ -21,10 +21,10 @@ I frequently work with:
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Currently learning, self-taught:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### GitHub Stats
 
