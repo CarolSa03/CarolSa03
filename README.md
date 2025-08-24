@@ -40,7 +40,7 @@ Technologies & Tools:
 
 #### Experience Highlights
 
-- **Sky Portugal** — iOS Developer Intern (Jul 2025 - Sep 2025)  
+- **Sky** — iOS Developer Intern (Jul 2025 - Sep 2025)  
 
 - **Computer Engineering Students’ Association** — IT Dept Member (Oct 2024 - Present) 
 
