@@ -10,7 +10,7 @@ I'm Carolina Sa, a passionate Computer Engineering student with a strong focus o
 - 👯 Experienced in applying SCRUM and AGILE methodologies, with some exposure to Waterfall, in collaborative and international teams.
 - 🎓 Planning to pursue a Master's degree in Cybersecurity, Data Science, or Quantum Computing.
 - ✍️ I enjoy writing reports and documentation, leveraging my strong communication skills in Portuguese (native), English (C1), and Korean (A2).
-- 📫 How to reach me: carolinasapite@gmail.com
+- 📫 How to reach me: carolinasapite@outlook.com
 
 #### Programming Languages & Technologies
 
