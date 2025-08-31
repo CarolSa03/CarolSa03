@@ -49,13 +49,8 @@ Technologies & Tools:
 - Cambridge C1 English Certificate — 2024  
 - A2 Korean Language Certificate — 2019  
 
-#### GitHub Stats
-
-![Carolina Sa's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=CarolSa03)
-
 #### Languages in my Repositories
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSa03&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSa03&hide_progress=true)
 
 #### Fun Facts
 - Passionate about writing. Wrote a short story for a book (UNICEF campaign).
