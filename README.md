@@ -42,14 +42,14 @@ Technologies & Tools:
 
 - **Meteol** — IT Support (Jun 2024 - Aug 2024)
 
-#### Certifications & Skills Development
+#### Certifications
 
 - Data Protection and Privacy (National Center of Cyber-security) — 2025  
 - Network Security (National Center of Cyber-security) — 2025  
 - Cambridge C1 English Certificate — 2024  
 - A2 Korean Language Certificate — 2019  
 
-#### Languages in my Repositories
+#### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSa03&hide_progress=true)
 
 #### Fun Facts
