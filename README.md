@@ -24,7 +24,7 @@ I’m Carolina Sá, a Computer Engineering student expected to graduate in Septe
 - **Hitachi Solutions Europe** — Software Developer Intern (Jul 2025 - Aug 2025)
 - **Sky Portugal** — iOS Developer Intern (Jul 2025 - Aug 2025)
 - **Formula Student ISEP** — Software Developer (Oct 2025 - February 2026)
-- **Computer Science Students' Association** — Software Developer (Oct 2024 - Kuly 2026)
+- **Computer Science Students' Association** — Software Developer (Oct 2024 - July 2026)
 - **ENEI** — Competition Department Member (Nov 2024 - May 2025)
 
 #### Certifications
